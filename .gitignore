@@ -1,4 +1,4 @@
 .idx/
-  .vscode/
-  doc.txt
-  
+.vscode/
+doc.txt
+*.txt
